@@ -1101,6 +1101,12 @@ content: url('https://static.lioden.com/images/items/Amusement/nestingbundle.png
 	width: 100%;
 	height: auto; }
 
+div.cave-grid>img[src$="nestingbanner.png"] {
+	content: url('https://i.imgur.com/8hN2Tno.png')!important;
+	width: 100%;
+	height: auto;
+}
+
 a[href$="101982"]>div.cave-grid>img {
 content: url('https://i.imgur.com/5x1EiGt.png')!important;
 	width: 100%;
@@ -1115,13 +1121,6 @@ a[href$="107386"]>div.cave-grid>img {
 content: url('https://i.imgur.com/0W8mVBu.png')!important;
 	width: 100%;
 	height: auto; }
-
-
-div.cave-grid>img[src$="nestingbanner.png"] {
-	content: url('https://i.imgur.com/8hN2Tno.png')!important;
-	width: 100%;
-	height: auto;
-}
 
 a[href$="unsorted.php?id=46336"]>div.cave-grid>img{
 content: url('https://i.imgur.com/TXa3zaW.png')!important;
