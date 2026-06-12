@@ -645,6 +645,18 @@ a[onclick*="editdetailspanel"]:hover {
     color: #e2c2a6 !important;
 }
 
+#editdetailspanel table.table {
+	border-top: none !important;
+}
+
+#editdetailspanel .left {
+	border-top: none !important;
+}
+
+#editdetailspanel .right {
+	border-top: none !important;
+}
+
 /* Block of color behind "Territory Description, Player Name, Avatar URL" etc. */
 
 .table .left {
